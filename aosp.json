@@ -1,14 +1,14 @@
 {
-      "filename":"pixeldust_blueline-ota-retrofit-b7d58a2d18.zip",
-      "filehash":"420f633ba98713d9ccd04c3ba02e09e6",
-      "size":1152500337,
-      "datetime":1586001906,
-      "version":"10.0.0",
-      "url":"https:\/\/sourceforge.net\/projects\/pixeldustproject\/files\/ota\/test\/pixeldust_blueline-ota-retrofit-b7d58a2d18.zip\/download",
-      "maintainer":"spezi77",
-      "maintainer_url":"https:\/\/forum.xda-developers.com\/member.php?u=5091819",
+      "filename": "PixelDust-X-aosp-flame-20200422-0844.zip",
+      "filehash": "4409c2916b5569c089f53f0d118249ce",
+      "size": 1406468913,
+      "datetime": 1587537383,
+      "url": "https:\/\/sourceforge.net\/projects\/pixeldustproject\/files\/ota\/flame\/PixelDust-X-aosp-flame-20200422-0844.zip\/download",
+      "version": "10.0.0",
+      "maintainer":"fKm",
+      "maintainer_url":"https:\/\/forum.xda-developers.com\/member.php?u=3458408",
       "donate_url":"https:\/\/tinyurl.com\/yawypkah",
-      "forum_url":"https:\/\/forum.xda-developers.com\/pixel-3\/development\/rom-pixeldust-android-10-blueline-t4024905",
+      "forum_url":"https:\/\/forum.xda-developers.com\/pixel-4\/development\/rom-pixeldust-android-10-flame-t4076401",
       "website_url":"https:\/\/sourceforge.net\/projects\/pixeldustproject",
       "news_url":"https:\/\/t.me\/pixeldustproject"
 }
